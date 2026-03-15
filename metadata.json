@@ -1,0 +1,5 @@
+{
+  "name": "Governor Command Center",
+  "description": "Administrative portal for regional data management and agent monitoring across 18 governorates.",
+  "requestFramePermissions": []
+}
